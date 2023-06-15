@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 -->
 
 Hi, there! 👋🏻
+
 🧑🏻 I am Esto, a software builder from front to back. I love to use JavaScript and React ecosystems to achieve my goals.
+
 💻 I am currently working as software engineer. I built internal application for my company. You can call the application that I build as ERP.
