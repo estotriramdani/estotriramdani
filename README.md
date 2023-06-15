@@ -11,11 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![Esto's GitHub stats](https://github-readme-stats.vercel.app/api?username=estotriramdani&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estotriramdani&hide=html,css,php&exclude_repo=healthy-asset,ehadc,halamanpersonal-backend,birutekno-studycase,backend-dtks-langonsari,langonsari,phpdasar,komikCI4)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-
-
+Hi, there! 👋🏻
+🧑🏻 I am Esto, a software builder from front to back. I love to use JavaScript and React ecosystems to achieve my goals.
+💻 I am currently working as software engineer. I built internal application for my company. You can call the application that I build as ERP.
